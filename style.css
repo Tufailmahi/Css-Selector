@@ -1,0 +1,39 @@
+ universal selector
+{
+    color: red;
+}
+/*single elemnet*/
+/*span{
+    color: yellow;
+}
+/*multple element*/
+/*h2,h1{
+    color: blue;
+}*/
+/*.interset{
+    color: blueviolet;
+}*/
+/* ID selector*/
+/*#myspan
+{
+    color: aqua;
+}*/
+/*
+child slector*/
+/*div>h2{
+    color: chartreuse;
+}
+span>p{
+    color: darkgoldenrod;
+}*/
+/*div p{
+    color: cyan;
+}*/
+/* adjsent sibling selector*/
+/*h1+p{
+    color: aquamarine;
+}*/
+/* GENRRAL SIBLING SELECTOR*/
+h1~p{
+    color: fuchsia;
+}
